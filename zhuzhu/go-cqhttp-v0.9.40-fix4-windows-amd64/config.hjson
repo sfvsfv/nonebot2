@@ -5,9 +5,9 @@
 
 {
     // QQ号
-    uin: 1786691956
+    uin: 你的账号
     // QQ密码
-    password: yanghanwen123
+    password: 你的密码
     // 是否启用密码加密
     encrypt_password: false
     // 加密后的密码, 如未启用密码加密将为空, 请勿随意修改.
