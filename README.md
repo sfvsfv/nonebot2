@@ -5,6 +5,8 @@ demo
 
 if you have any question,you can join my group:970353786
 
+
+模块安装：pip install nonebot2，其余的请pip install xxx
 如果你成功将会看到如下效果：
 
 
