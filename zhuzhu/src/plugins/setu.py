@@ -20,7 +20,7 @@ async def j(bot: Bot, event: Event, state: T_State):
     except CQHttpError:
         pass
 
-
+#这个网址已经失效了，需要新的插件加群:970353786
 async def mei():
     url = 'https://api.66mz8.com/api/rand.img.php?type=美女&format=json'
     resp = requests.get(url)
