@@ -7,15 +7,22 @@ demo机器人
 ![478367125](https://user-images.githubusercontent.com/62045791/129269304-f53b78db-6efb-48c8-ae4a-f604f1563823.png)
 
 使用nonebot2从零开始制作一个属于自己的QQ机器人，请参考如下文档
-nonebot2官方文档链接：https://v2.nonebot.dev/
-go-cqhttp地址：https://github.com/Mrs4s/go-cqhttp
-go-cqhttp的api文档：https://docs.go-cqhttp.org/api/
-同时可以参考我的讲解视频：
 
+nonebot2官方文档链接：https://v2.nonebot.dev/
+
+go-cqhttp地址：https://github.com/Mrs4s/go-cqhttp
+
+go-cqhttp的api文档：https://docs.go-cqhttp.org/api/
+
+同时可以参考我的讲解视频：
 链接：
+
 （1）https://www.bilibili.com/video/BV1Z64y197Ps/
+
 （2）https://www.bilibili.com/video/BV1H64y1Q7uJ/
+
 （3https://www.bilibili.com/video/BV1Tg411u7H4/
+
 
 保证你的python版本大于等于3.7！
 一次性下载这么多模块可能太长会下载不了，可以分两批下载。直接复制粘贴即可。
