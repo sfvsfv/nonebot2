@@ -1,9 +1,9 @@
 # nonebot2
 demo机器人
 小白专用，避免各种配置出现问题，你只需要换上自己扣扣账号和密码就行了，建议用小号哦，亲！喜欢就点个star吧
-![image](https://user-images.githubusercontent.com/62045791/117101946-d9cb7500-ada9-11eb-8bf1-fda1c1330449.png)
 
 如果你有相关问题，欢迎加群:970353786
+
 ![478367125](https://user-images.githubusercontent.com/62045791/129269304-f53b78db-6efb-48c8-ae4a-f604f1563823.png)
 
 使用nonebot2从零开始制作一个属于自己的QQ机器人，请参考如下文档
