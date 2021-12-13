@@ -34,7 +34,7 @@ go-cqhttp的api文档：https://docs.go-cqhttp.org/api/
 一次性下载这么多模块可能太长会下载不了，可以分两批下载。直接复制粘贴即可。
 pip install pydantic loguru pygtrie httpx python-dotenv uvicorn fastapi requests selenium aiocqhttp ffmpeg aiohttp nb-cli nonebot2 nonebot-plugin-apscheduler nonebot-adapter-cqhttp -i https://pypi.tuna.tsinghua.edu.cn/simple
 
-
+更多插件请查看：https://blog.csdn.net/weixin_46211269/category_10912318.html?spm=1001.2014.3001.5482
 
 如果你成功将会看到如下效果：
 
