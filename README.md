@@ -21,7 +21,9 @@ go-cqhttp的api文档：https://docs.go-cqhttp.org/api/
 
 （2）https://www.bilibili.com/video/BV1H64y1Q7uJ/
 
-（3https://www.bilibili.com/video/BV1Tg411u7H4/
+（3）https://www.bilibili.com/video/BV1Tg411u7H4/
+
+(4)https://www.bilibili.com/video/BV1rL411n7EV?spm_id_from=333.999.0.0
 
 
 保证你的python版本大于等于3.7！
@@ -29,8 +31,6 @@ go-cqhttp的api文档：https://docs.go-cqhttp.org/api/
 pip install pydantic loguru pygtrie httpx python-dotenv uvicorn fastapi requests selenium aiocqhttp ffmpeg aiohttp nb-cli nonebot2 nonebot-plugin-apscheduler nonebot-adapter-cqhttp -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 
-另外一个人也有视频讲解可参考，可能视频有点老了：
-https://www.bilibili.com/video/BV1JK4y1D7kX
 
 如果你成功将会看到如下效果：
 
